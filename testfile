@@ -6,3 +6,4 @@ This is for understanding merge conflicts during git pull.
 1. Cloned a git repository.
 2. Added a new file (testfile).
 3. Did git pull -> it works fine as it pulled a new file to the local environment.
+4. Added new lines to the current file (remote repository) and pulled again. It added new lines in the file (local environment)
